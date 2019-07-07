@@ -763,6 +763,37 @@
         "description": "Highlight PHP code in terminal"
     },
     {
+        "name": "jwplayer/jwplatform",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/NickClaywell/jwplatform-php.git",
+            "reference": "70cdf463a7fde88b5831c3e6c6e95bff9a88cebd"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/NickClaywell/jwplatform-php/zipball/70cdf463a7fde88b5831c3e6c6e95bff9a88cebd",
+            "reference": "70cdf463a7fde88b5831c3e6c6e95bff9a88cebd",
+            "shasum": ""
+        },
+        "time": "2017-04-28T18:48:34+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "jwplayer\\jwplatform\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "Sergey Lashin"
+            }
+        ],
+        "description": "jwplayer php API Adapter"
+    },
+    {
         "name": "laravel/framework",
         "version": "v5.8.26",
         "version_normalized": "5.8.26.0",
